@@ -4,7 +4,7 @@ Junior Rust developer. Other skills include Go, React, JavaScript and a bit of S
 
 
 
-# Contact
+### Contact
 
 Matrix: `mikoto:kurosaki.cx`
 
