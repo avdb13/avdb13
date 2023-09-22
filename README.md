@@ -2,7 +2,7 @@
 
 Junior Rust developer. Other skills include Go, React, JavaScript and a bit of SQL. Currently learning the MERN stack. Aspiring to build performant software.
 
-## Contact
+# Contact
 
 Matrix: `mikoto:kurosaki.cx`
 Discord: `Ataraxia#2003`
