@@ -1,4 +1,4 @@
-### _Aspire to inspire before you expire_ — unknown
+### Somebody who does stuff with computers.
 
 Junior Rust developer. Other skills include Go, React, JavaScript and a bit of SQL. Currently learning the MERN stack. Aspiring to build performant software.
 
