@@ -14,6 +14,6 @@ E-mail: `avdb (at) keemail (dot) me`
 
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=avdb13&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://raw.githubusercontent.com/avdb13/github-stats-transparent/output/generated/overview.svg)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=avdb13&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github.com/avdb13/github-stats-transparent/blob/output/generated/languages.svg)]()
