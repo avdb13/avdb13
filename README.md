@@ -14,6 +14,4 @@ E-mail: `avdb (at) keemail (dot) me`
 
 
 
-[![My GitHub Stats](https://raw.githubusercontent.com/avdb13/github-stats-transparent/output/generated/overview.svg)]()
-
-[![My GitHub Language Stats](https://github.com/avdb13/github-stats-transparent/blob/output/generated/languages.svg)]()
+[![My GitHub Stats](https://raw.githubusercontent.com/avdb13/github-stats-transparent/output/generated/overview.svg)]() [![My GitHub Language Stats](https://github.com/avdb13/github-stats-transparent/blob/output/generated/languages.svg)]()
