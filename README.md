@@ -1,6 +1,6 @@
 ### Somebody who does stuff with computers.
 
-Junior Rust developer. Other skills include Go, React, JavaScript and a bit of SQL. Currently learning the MERN stack. Aspiring to build performant software.
+Junior software developer. Mainly focusing on React and Typescript but other skills include Go, Rust and a bit of SQL. Currently learning the MERN stack. Aspiring to improve the quality of free, open-source software.
 
 
 
