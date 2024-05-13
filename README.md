@@ -1,2 +1,2 @@
-<!--START_SECTION:stats-->
-<!--END_SECTION:stats-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
