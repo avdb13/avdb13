@@ -15,13 +15,12 @@
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TeX                      13 mins             ████████████████░░░░░░░░░   64.66 % 
-Other                    7 mins              █████████░░░░░░░░░░░░░░░░   35.34 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/12/2025 18:54:46 UTC
+ Last Updated on 24/12/2025 18:52:40 UTC
 <!--END_SECTION:waka-->
